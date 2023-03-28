@@ -7,7 +7,6 @@ I write (or study) in
 - Kotlin
 - Haskell
 - Java
-- Odin
 
 <h2>Some stats</h2>
 
