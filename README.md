@@ -5,6 +5,7 @@ I'm currently working as Android Tech Lead at KODE.
 I write (or study) in
 
 - Kotlin
+- Odin
 - Haskell
 - Java
 
