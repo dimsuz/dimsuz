@@ -1,13 +1,6 @@
 <h2>Hi 👋</h2>
 
-I'm currently working as Android Tech Lead at KODE.
-
-I write (or study) in
-
-- Kotlin
-- Odin
-- Haskell
-- Java
+I'm currently working as Android Tech Lead at [KODE](https://kode.ru).
 
 <h2>Some stats</h2>
 
