@@ -1,7 +1,5 @@
 <h2>Hi 👋</h2>
 
-I'm currently working as Android Tech Lead at [KODE](https://kode.ru).
-
 <h2>Some stats</h2>
 
 <p><a href="https://twitter.com/dimsuz" target="blank"><img src="https://img.shields.io/twitter/follow/dimsuz?logo=twitter&style=for-the-badge" alt="dimsuz" /></a></p>
